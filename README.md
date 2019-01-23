@@ -1,7 +1,7 @@
 
 # Como configurar esp 8266 
 
-+ https://programarfacil.com/podcast/como-configurar-esp01-wifi-esp8266/
++ [programarfacil.com](https://programarfacil.com/podcast/como-configurar-esp01-wifi-esp8266/) 
 
 # Para ajustar el IDE de arduino 
 
@@ -10,3 +10,8 @@ Luego ir a herramientas-> placas-> gestor de tarjetas-> se busca "esp" y se inst
 
 # Datasheet de ESP 8266 usada 
 + https://ecksteinimg.de/Datasheet/Ai-thinker%20ESP-01%20EN.pdf
+
+# Como configurar 
+![](infografia-esp01-03.jpg)
+
+**Imagen tomada de [programarfacil.com](https://programarfacil.com/podcast/como-configurar-esp01-wifi-esp8266/)**
