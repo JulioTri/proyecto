@@ -24,3 +24,4 @@ Luego ir a herramientas-> placas-> gestor de tarjetas-> se busca "esp" y se inst
 + Se debe tener en cuenta que la conexion de arriba funciona pero en caso de que no cargue el programa (modo UART) se deben 
 oprimir los dos botones al tiempo por unos 5 segundos
 + El codigo usado aunque pretende mostrar por monitor serie (IDE arduino) la ip y otra informacion acerca de la conexion, no lo ahce, por tanto es necesario de buscar la forma de imprimir la ip que el router asigna al dispositivo, o poder ingresar al router y ver los dispositivos conectados y su ip
++ Se actualiza la libreria de las rarjetas **ESP8266 by ESP8266 Community** a la version 2.5.0 y la prueba es positiva, por otro lado se sigue teniendo inconvenientes al entrar al modo UART por ende se debe verificar con la ip si el dispositivo esta o no conectado  
